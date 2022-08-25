@@ -23,7 +23,8 @@ dunst &
 # killall lxappearance &
 # copyq &
 # ec4linux-applet &
-
+# auto lock
+xautolock -time 10 -locker "betterlockscreen -l" -notify 30 -notifier "dunstify  -u critical 'Locking in 30 seconds'" &
 
 # Boot picom
 if [ -x "$(command -v picom)" ]; then
