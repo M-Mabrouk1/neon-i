@@ -1,28 +1,28 @@
 border_width = 2
 margin = 2
 workspace_margin=0
-default_border_color = "#060404"
-floating_border_color = "#FAD49F"
-focused_border_color = "#f2e6df"
+default_border_color = "#0e0e0d"
+floating_border_color = "#F39417"
+focused_border_color = "#a5d1bc"
 
 
-col1 = "#B4906D"
-col2 = "#D89D74"
-col3 = "#847C83"
-col4 = "#A79A9C"
-col5 = "#E2AE99"
-col6 = "#FAD49F"
-col7 = "#f2e6df"
-col8 = "#a9a19c"
-col9 = "#B4906D"
-col10 = "#D89D74"
-col11 = "#847C83"
-col12 = "#A79A9C"
-col13 = "#E2AE99"
-col14 = "#FAD49F"
-col15 = "#f2e6df"
+col1 = "#2A2633"
+col2 = "#484139"
+col3 = "#1B2E4B"
+col4 = "#2D304A"
+col5 = "#C14520"
+col6 = "#F39417"
+col7 = "#a5d1bc"
+col8 = "#739283"
+col9 = "#2A2633"
+col10 = "#484139"
+col11 = "#1B2E4B"
+col12 = "#2D304A"
+col13 = "#C14520"
+col14 = "#F39417"
+col15 = "#a5d1bc"
 
 
 
-background = "#060404"
-foreground = "#f2e6df"
+background = "#0e0e0d"
+foreground = "#a5d1bc"
