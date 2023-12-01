@@ -1,0 +1,31 @@
+#![enable(implicit_some)]
+(
+    border_width : 2,
+    margin : 2,
+    workspace_margin:0,
+    default_border_color : "#02070F",
+    floating_border_color : "#A26CAD",
+    focused_border_color : "#dab4d3",
+
+
+    col1 : "#0F3D82",
+    col2 : "#205699",
+    col3 : "#5B5CA0",
+    col4 : "#6F76AA",
+    col5 : "#6169B3",
+    col6 : "#A26CAD",
+    col7 : "#dab4d3",
+    col8 : "#987d93",
+    col9 : "#0F3D82",
+    col10 : "#205699",
+    col11 : "#5B5CA0",
+    col12 : "#6F76AA",
+    col13 : "#6169B3",
+    col14 : "#A26CAD",
+    col15 : "#dab4d3",
+
+
+
+    background : "#02070F",
+    foreground : "#02070F",
+)

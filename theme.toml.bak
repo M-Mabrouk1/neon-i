@@ -1,0 +1,28 @@
+border_width = 2
+margin = 2
+workspace_margin=0
+default_border_color = "#030A17"
+floating_border_color = "#49B9BC"
+focused_border_color = "#85c9e0"
+
+
+col1 = "#0D4B71"
+col2 = "#338F6E"
+col3 = "#106298"
+col4 = "#1055A3"
+col5 = "#2291A2"
+col6 = "#49B9BC"
+col7 = "#85c9e0"
+col8 = "#5d8c9c"
+col9 = "#0D4B71"
+col10 = "#338F6E"
+col11 = "#106298"
+col12 = "#1055A3"
+col13 = "#2291A2"
+col14 = "#49B9BC"
+col15 = "#85c9e0"
+
+
+
+background = "#030A17"
+foreground = "#85c9e0"
